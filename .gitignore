@@ -2,7 +2,7 @@
 *
 !*/
 
-!/ue5-gitignore
+!/ue5-gitignore/**
 
 # Do not ignore git files in the root of the repo.
 !/.git*
